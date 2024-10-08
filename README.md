@@ -35,7 +35,15 @@ The code is a simple menu with options repeated infinitely in a loop. The displa
 - 10000;
 - random;
   
-The options are the band width of the attacks on the 433Mhz frequency, with a random option too. Once the option is selected the code is gonna load a cool animation and start the attack, which you can stop with a simple click of the button.
+The options are the band width of the attacks on the 433Mhz frequency, with a random band width option too. Once the option is selected the code is gonna load a cool animation and start the attack, which you can stop with a simple click of the button.
 
 
 # 📡 RF Module
+
+<img align="right" src="media/jammer4.jpg" width="250" />
+
+The radio module reaches 4km of distance on an open field and less than 1km indoors. You can use the transmitter to disturb applications like: car keys, garage doors, remotely opened doors, walkie talkies, any remote (except for the tv remotes which use infrared light), headphones, some radios, wireless weather stations, home security applications like alarms or doorbells, smart devices, toys like rc cars, some wireless sensors and even some health related sensors.
+
+
+> [!WARNING]  
+> Do not use the jammer for malicious purposes. Its illegal to jam frequencies or to disturb signals you do not own, so dont do it pls
