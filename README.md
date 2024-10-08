@@ -27,6 +27,13 @@ I also used a small breadboard to avoid soldering the potentiometer and the butt
 
 # 💻 Code
 
+<img align="right" src="media/jammer3.jpg" width="300" />
+
+The code is a simple menu with options repeated infinitely in a loop. The display menu options are 4:
+- 6700
+- 1000
+- 10000
+- random
 
 
 # 📡 RF Module
