@@ -1,5 +1,5 @@
 # 433mhz-Jammer
-433Mhz Jammer using arduino and rf Module, with oled display and menu with options.
+433Mhz Jammer using arduino nano and rf Module, with oled display, potentiometer and menu with options.
 
 # 🔋 Parts & Robotics
 
